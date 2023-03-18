@@ -54,8 +54,15 @@ Here are the test cases [test case](https://github.com/sandateodora20/Proiect-pr
 
 ### Entry criteria:
 
-functional specifications defined 
+  - functional specifications defined 
 
-roles needed for the project are allocated 
+  - roles needed for the project are allocated 
 
-initial project risks were detected and mitigated
+  - initial project risks were detected and mitigated
+
+ Exit criteria:
+all test cases have been executed 
+the number of unresolved bugs is insignificant or have low priority 
+all resolved bugs have been re-tested and closed by QA team 
+deadline was reached 
+no detected major risks remained un-mitigated 
