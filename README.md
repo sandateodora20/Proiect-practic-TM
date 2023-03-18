@@ -1,6 +1,6 @@
 # Proiect-practic-TM
 ## OrangeHRM Project
-## Revision history
+### Revision history
 | Date | Version | Authors | Comments |
 | :-----: | :---: | :---: |:---: |
 | 11.03.2023 | v1.1| **Sanda Gabor** | Draft plan|
