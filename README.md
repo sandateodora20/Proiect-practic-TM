@@ -24,10 +24,14 @@
   
   >Test design
   
-Test implementation
-Test execution
-Test closure
-Test monitoring and control
+  >Test implementation
+  
+  >Test execution
+  
+  >Test closure
+  
+  >Test monitoring and control
+  
 Test deliverables
 Test plan
 Test conditions
