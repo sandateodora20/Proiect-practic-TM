@@ -15,10 +15,14 @@
   
   > 1.3.Functionalities and tests out of scope
   
-Test process
-Test planning
-Test analysis
-Test design
+**2.Test process**
+
+  >Test planning
+  
+  >Test analysis
+  
+  >Test design
+  
 Test implementation
 Test execution
 Test closure
