@@ -32,12 +32,20 @@
   
   >Test monitoring and control
   
-Test deliverables
-Test plan
-Test conditions
-Test cases
-Daily test summary reports
-Traceability matrix
-Test case results
-Bugs report
-Test completion report
+**3.Test deliverables**
+
+  >Test plan
+  
+  >Test conditions
+  
+  >Test cases
+  
+  >Daily test summary reports
+  
+  >Traceability matrix
+  
+  >Test case results
+  
+  >Bugs report
+  
+  >Test completion report
