@@ -1,4 +1,5 @@
 # Proiect-practic-TM
+## OrangeHRM Project
 ## Revision history
 | Date | Version | Authors | Comments |
 | :-----: | :---: | :---: |:---: |
