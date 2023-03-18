@@ -49,3 +49,5 @@
   >Bugs report
   
   >Test completion report
+
+Here are the link https://github.com/sandateodora20/Proiect-practic-TM/blob/main/Captur%C4%83%2018.03.JPG
