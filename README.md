@@ -51,3 +51,11 @@
   >Test completion report
 
 Here are the test cases [test case](https://github.com/sandateodora20/Proiect-practic-TM/blob/main/Captur%C4%83%2018.03.JPG)
+
+### Entry criteria:
+
+functional specifications defined 
+
+roles needed for the project are allocated 
+
+initial project risks were detected and mitigated
