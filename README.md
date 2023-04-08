@@ -84,4 +84,4 @@ no detected major risks remained un-mitigated
 
 
 ![Image name](link catre imagine)
-Link catre fisier [Test cases for user story x](link fisier)
+Link catre fisier [Test cases for user story x](https://github.com/sandateodora20/Proiect-practic-TM/blob/main/TM2S-11%20(1).pdf)
