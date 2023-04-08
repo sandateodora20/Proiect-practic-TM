@@ -66,3 +66,21 @@ the number of unresolved bugs is insignificant or have low priority
 all resolved bugs have been re-tested and closed by QA team 
 deadline was reached 
 no detected major risks remained un-mitigated 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Image name](link catre imagine)
